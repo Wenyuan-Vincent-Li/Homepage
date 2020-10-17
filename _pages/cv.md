@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Engineering, Zhejiang University, 2014
 * M.S. in Electrical Engineering, University of California, Los Angeles, 2016
-* Ph.D in Electrical and Computer Engineering, University of California, Los Angeles, 2020 (expected)
+* Ph.D in Electrical and Computer Engineering, University of California, Los Angeles, 2020
 
 Research Experience
 ======
