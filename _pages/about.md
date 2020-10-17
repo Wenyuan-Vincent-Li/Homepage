@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D candidate in [Electrical and Computer Engineering](https://www.ee.ucla.edu/) 
-, [University of California, Los Angeles](http://www.ucla.edu/). I am a member of
- [Medical Image Informatics Lab](https://www.mii.ucla.edu/), advised by [Prof. Corey Arnold](https://www.mii.ucla.edu/people/cwarnold/)
- and co-advised by [Prof. Greg Pottie](http://www.seas.ucla.edu/~pottie/). My research interests lie in the
- __real-life application of machine learning, especially for healthcare__.
+I am a research scientist of Facebook working on machine learning and deep learning with applications.
+I complete my Ph.D in the [Department of Electrical and Computer Engineering](https://www.ee.ucla.edu/), 
+[Computational Diagnostics Lab](https://www.uclahealth.org/urology/iuo/arnold-lab), and [Medical Image Informatics Lab](https://www.mii.ucla.edu/)
+at [University of California, Los Angeles](http://www.ucla.edu/) in September 2020. I was advised by [Prof. Corey Arnold](https://www.mii.ucla.edu/people/cwarnold/)
+and co-advised by [Prof. Greg Pottie](http://www.seas.ucla.edu/~pottie/). My research interests lie in the
+ __real-life application of machine learning and deep learning__.
 
 ## Recent News
 {% include base_path %}

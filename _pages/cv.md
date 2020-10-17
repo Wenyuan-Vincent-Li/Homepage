@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also download my single-paged Resume [__here__]({{ site.baseurl }}/files/Li_Wenyuan_CV.pdf).
+You can also download my single-paged Resume [__here__]({{ site.baseurl }}/files/Li_Wenyuan_CV_2020_10.pdf).
 
 Education
 ======
