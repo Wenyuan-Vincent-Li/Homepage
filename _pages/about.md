@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research scientist of Facebook working on machine learning and deep learning with applications.
+I am a research scientist of Facebook working on machine learning and deep learning with applications to Facebook products.
 I complete my Ph.D in the [Department of Electrical and Computer Engineering](https://www.ee.ucla.edu/), 
 [Computational Diagnostics Lab](https://www.uclahealth.org/urology/iuo/arnold-lab), and [Medical Image Informatics Lab](https://www.mii.ucla.edu/)
 at [University of California, Los Angeles](http://www.ucla.edu/) in September 2020. I was advised by [Prof. Corey Arnold](https://www.mii.ucla.edu/people/cwarnold/)
